@@ -1,0 +1,5 @@
+https://wiremock.org/docs/download-and-installation/
+
+Executando o wiremock
+
+java -jar wiremock-standalone-3.3.1.jar --port 8082
