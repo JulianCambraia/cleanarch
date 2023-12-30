@@ -2,7 +2,7 @@
 
 ## PoC com ênfase nos princípios da Arquitetura Limpa descritas por Robert C. Martin 
 proposta em seu livro ```Clean Architecture: A Craftsman’s Guide to Software Structure```
-![alt text](https://github.com/juliancambraia/cleanarch/blob/main/images/cleanarq.png?raw=true)
+![alt text](https://github.com/juliancambraia/cleanarch/blob/main/images/cleanarq.jpeg?raw=true)
 ### Tecnologias usadas
 
 1. Java 21 LTS
